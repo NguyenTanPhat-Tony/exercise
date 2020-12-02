@@ -1,3 +1,0 @@
-Hello Git!!
-Today is a very good day, and it going to opposite!
-This is the new line in Ex02_branch
